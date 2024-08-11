@@ -4,7 +4,7 @@
 
 - Faculdade Estácio - Polo Curitiba - Centro
 - Curso: Desenvolvimento Full Stack
-- Disciplina: Vamos interligar as coisas com a nuvem
+- Disciplina: Tratando a imensidão dos dados
 - Número da Turma: RPG0033
 - Semestre Letivo: 5
 - Integrante: Mariana Lucas Fernandes Onório
