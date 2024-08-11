@@ -12,5 +12,5 @@ subconjunto_dados = dados[['ID', 'Date', 'Calories']]
 # Salva as alterações no arquivo CSV
 dados.to_csv('dados_gerados_microatividade3.csv', index=False)
 
-# Imprime/exibe os dados da variável usando o método to_string()
+# Exibe os dados da variável usando o método to_string()
 print(dados.to_string())
